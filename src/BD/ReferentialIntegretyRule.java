@@ -11,5 +11,5 @@ package BD;
  */
 public class ReferentialIntegretyRule {
     
-    private ReferentialIntegratyActions action;
+    private ReferentialIntegrityActions action;
 }

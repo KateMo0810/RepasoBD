@@ -9,6 +9,6 @@ package BD;
  *
  * @author kathe
  */
-public class NOT_NULL {
+public class NOT_NULL extends Constraint{
     
 }

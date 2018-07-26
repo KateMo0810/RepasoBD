@@ -9,9 +9,6 @@ package BD;
  *
  * @author kathe
  */
-public class FOREIGN_KEY extends Constraint{
+public class ReferentialIntegrityActions {
     
-    private Column referencedColumn;
-    private ReferentialIntegretyRule onUpdate;
-    private ReferentialIntegretyRule onDelete;
 }

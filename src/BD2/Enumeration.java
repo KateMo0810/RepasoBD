@@ -3,15 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package BD;
+package BD2;
+
+import java.util.List;
 
 /**
  *
  * @author kathe
  */
-public class FOREIGN_KEY extends Constraint{
+public class Enumeration extends Type{
     
-    private Column referencedColumn;
-    private ReferentialIntegretyRule onUpdate;
-    private ReferentialIntegretyRule onDelete;
+    private String name;
+    private List<Literal> literal;
 }

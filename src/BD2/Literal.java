@@ -3,15 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package BD;
+package BD2;
 
 /**
  *
  * @author kathe
  */
-public class FOREIGN_KEY extends Constraint{
+public class Literal {
     
-    private Column referencedColumn;
-    private ReferentialIntegretyRule onUpdate;
-    private ReferentialIntegretyRule onDelete;
+    private String value;
 }

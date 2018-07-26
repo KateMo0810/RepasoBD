@@ -9,6 +9,6 @@ package BD;
  *
  * @author kathe
  */
-public class UNIQUE {
+public class UNIQUE extends Constraint{
     
 }

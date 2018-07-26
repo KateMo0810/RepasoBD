@@ -9,6 +9,6 @@ package BD;
  *
  * @author kathe
  */
-public class PRIMARY_KEY {
+public class PRIMARY_KEY extends Constraint{
     
 }
